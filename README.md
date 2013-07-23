@@ -1,5 +1,6 @@
-Eliza bot (mostly to be used with <a href="https://github.com/oontvoo/bash-irc-bot">bash-irc-bot</a>)
+Eliza bot
 =============
+(mostly to be used with <a href="https://github.com/oontvoo/bash-irc-bot">bash-irc-bot</a>)
 
 This is a simple implementation of an `eliza`. You can modify `src/main/resources/eliza/script` file to add different rules for it.
 
